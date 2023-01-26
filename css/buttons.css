@@ -1,0 +1,37 @@
+/* 
+    remember that VS Code doesn't auto-save the files
+ */
+
+#youtube {
+    background-color: rgb(200, 3, 3);
+    border-radius: 2px;
+    color: white;
+    border: none;
+    height: 36px;
+    width: 106px;
+    cursor: pointer;
+    margin-right: 8px;
+}
+
+#join {
+    background-color: white;
+    color: blue;
+    height: 36px;
+    width: 62px;
+    border: 1px solid blue;
+    cursor: pointer;
+    border-radius: 2px;
+    margin-right: 8px;
+}
+
+#twitter {
+    background-color: blue;
+    color: white;
+    height: 36px;
+    width: 76px;
+    border-radius: 18px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 16px;
+}

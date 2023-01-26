@@ -1,0 +1,90 @@
+/* 
+    Remember that VS Code files are not auto-saved
+*/
+
+#uber {
+    color: white;
+    background-color: black;
+    border: none;
+    height: 36px;
+    width: 116px;
+    cursor: pointer;
+    margin-left: 12px;
+}
+
+#amazon {
+    color: black;
+    background-color: rgb(252, 216, 20);
+    border: none;
+    height: 36px;
+    width: 136px;
+    cursor: pointer;
+    margin-left: 12px;
+    border-radius: 18px;
+    font-size: 14px;
+}
+
+#github {
+    color: white;
+    background-color: rgb(46, 164, 80);
+    border: none;
+    height: 36px;
+    width: 82px;
+    cursor: pointer;
+    margin-left: 12px;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#bs1 {
+    color: white;
+    background-color: rgb(122, 82, 180);
+    border: none;
+    height: 36px;
+    width: 116px;
+    cursor: pointer;
+    margin-left: 12px;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#bs2 {
+    color: rgb(108, 118, 124);
+    background-color: white;
+    border: 1px solid rgb(108, 118, 124);
+    height: 36px;
+    width: 116px;
+    cursor: pointer;
+    margin-left: 12px;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#li1 {
+    color: white;
+    background-color: rgb(10, 102, 194);
+    border: none;
+    height: 36px;
+    width: 256px;
+    cursor: pointer;
+    margin-left: 12px;
+    border-radius: 18px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#li2 {
+    color: rgb(10, 102, 194);
+    background-color: white;
+    height: 36px;
+    width: 86px;
+    border: 2px solid rgb(10, 102, 194);
+    border-radius: 18px;
+    margin-left: 12px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+}
