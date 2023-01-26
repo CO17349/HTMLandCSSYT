@@ -1,0 +1,36 @@
+a {
+    color: rgb(0, 114, 134);
+    font-size: 24px;
+}
+
+.price {
+    color: rgb(0, 118, 0);
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.delivery {
+    font-size: 24px;
+}
+
+.cart {
+    color: black;
+    background-color: rgb(252, 216, 20);
+    height: 36px;
+    width: 186px;
+    border: none;
+    border-radius: 18px;
+    font-size: 20px;
+    margin-right: 8px;
+}
+
+.buy {
+    color: black;
+    background-color: rgb(252, 164, 28);
+    height: 36px;
+    width: 186px;
+    border: none;
+    border-radius: 18px;
+    font-size: 20px;
+    margin-right: 8px;
+}
